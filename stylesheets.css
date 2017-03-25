@@ -1,5 +1,5 @@
-		title{color:Blue}
-                .zappy {color:Yellow font-family:TimesNewRoman; font-size:30px;}
+		h1{font-family:Palatino, serif; font-size:60px}
+                .zappy {color:yellow font-family:Lucida, sans-serif; font-size:16px;}
 		.wow {color:aqua}
-		.yoo{background-color:grey}
-		body{background-color:white}
+		.yoo{background-color:Grey}
+		body{background-color:black; color:white }
